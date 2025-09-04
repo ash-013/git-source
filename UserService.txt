@@ -1,2 +1,4 @@
 Setting up the microservice for the user data...
 now processing the labeled data
+
+create an aatar for the user
